@@ -9,9 +9,9 @@
 
 Meu nome é Milena Ferraz, estudante Front-End e apaixonada por Desenvolvimento. 
 
-❤️ Techs: HTML, CSS, Javascript, React.js e sempre aprendendo mais!
+❤️ Techs: HTML, CSS, Javascript, C# e sempre aprendendo mais!
 
-📚 Estudando React JS.
+📚 Estudando Vue JS, Vuex e C#.
 
 :octocat: [https://github.com/milenaferraz/](https://github.com/milenaferraz/)
 
