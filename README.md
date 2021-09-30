@@ -15,3 +15,7 @@ Meu nome é Milena Ferraz, estudante Front-End e apaixonada por Desenvolvimento.
 
 :octocat: [https://github.com/milenaferraz/](https://github.com/milenaferraz/)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=milenaferraz&theme=tokyonight&show_icons=true)](https://github.com/milenaferraz/github-readme-stats)
+
+
+
