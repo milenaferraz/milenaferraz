@@ -6,11 +6,11 @@
 <!-- [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5512981888611&text=Olá!)](https://api.whatsapp.com/send?phone=5512981888611&text=Olá!) -->
 
 ***
-### Olá 👋
+### Olá 👋, Seja bem vindo(a) 
 
-Meu nome é Milena Ferraz, sou desenvolvedora apaixonada por tecnologia em busca de novos desafios.
+Meu nome é Milena Ferraz, sou desenvolvedora Front-End apaixonada por tecnologia.
 
-❤️ Techs: HTML, CSS, Javascript, C# e buscando aprender mais!
+❤️ Techs: HTML, CSS, Javascript, C# e sempre buscando aprender mais!
 
 📚 Estudando Vue.js, Vuex e C#.
 
