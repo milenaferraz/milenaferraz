@@ -8,11 +8,11 @@
 ***
 ### Olá 👋
 
-Meu nome é Milena Ferraz, estudante Front-End e apaixonada por Desenvolvimento. 
+Meu nome é Milena Ferraz, sou desenvolvedora apaixonada por tecnologia em busca de novos desafios.
 
-❤️ Techs: HTML, CSS, Javascript, C# e sempre aprendendo mais!
+❤️ Techs: HTML, CSS, Javascript, C# e buscando aprender mais!
 
-📚 Estudando Vue JS, Vuex e C#.
+📚 Estudando Vue.js, Vuex e C#.
 
 :octocat: [https://github.com/milenaferraz/](https://github.com/milenaferraz/)
 
