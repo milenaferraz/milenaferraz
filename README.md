@@ -10,6 +10,9 @@
 
 Sou desenvolvedora Full Stack com 2 anos de experiência na área de desenvolvimento web, apaixonada pelo que faz e que adora novos desafios.
 
+
+I'm a Full Stack developer with 2 years of experience in web development, passionate about what I do and who loves new challenges.
+
 ⚡ Technologies
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
